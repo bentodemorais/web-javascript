@@ -17,3 +17,4 @@ comparaComThisArrow = comparaComThisArrow.bind(obj)
 comparaComThisArrow(obj)
 comparaComThisArrow(module.exports)
 
+// o this em uma funcao arrow he desassociada ao contexto ao qual a funcao foi escrita
